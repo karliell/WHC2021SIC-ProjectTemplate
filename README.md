@@ -12,11 +12,17 @@ https://2021.worldhaptics.org/sic/
 
 <!-- For each team member, duplicate this following subsection and update Name, biography, pronouns and website. Please store pictures under images/portraits/ and use only Name in CamelCase for filenames. -->
 
+<!-- Please list here directly under ### Team your team contributors in the order you want them to appear: Names 1, Names 2, ... -->
+
+<!-- Please reorder subsections in the order you want your contributors to appear -->
+
 #### Name
 
 <img alt="Name's picture" src="images/portraits/Name.jpg" width="100px" height="auto"/>
 
 Name is ... <!-- insert biography -->
+
+Affiliation: <!-- insert affiliation -->
  
 Find more information on their <!-- update pronouns--> [website](https://).
 
@@ -77,7 +83,7 @@ Once this documentation becomes very comprehensive, the main file can be split i
 
 ## Abstract
 
-<!-- Summarize your project: for now copy the short pitch from your proposal -->
+<!-- Summarize your project: please revise your pitch into a 150-200 word abstract based on your achievements so far -->
 
 ## Introduction
 
