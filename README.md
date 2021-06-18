@@ -72,10 +72,14 @@ Once this documentation becomes very comprehensive, the main file can be split i
 
 - [Abstract](#abstract)
 - [Introduction](#introduction)
-  * [Documentation](#documentation)
-    + [Hardware](#hardware)
-      - [Sensors wiring](#sensors-wiring)
-    + [Software](#software)
+- [Documentation](#documentation)
+  * [Hardware](#hardware)
+    + [Bill of Materials](#bill-of-materials)
+    + [Assembly Guide](#assembly-guide)
+      - [Sensors Wiring](#sensors-wiring)
+  * [Software](#software)
+    + [Installation](#installation)
+    + [Running](#running)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
@@ -89,13 +93,17 @@ Once this documentation becomes very comprehensive, the main file can be split i
 
 <!-- Explain your project: for now copy the 300-word description from your proposal -->
 
-### Documentation
+## Documentation
 
-#### Hardware
+### Hardware
 
 <!-- Describe your hardware components -->
 
-##### Sensors wiring
+#### Bill of Materials
+
+#### Assembly Guide
+
+##### Sensors Wiring
 
 <!-- Feel free to remove or adapt the following explanation once you have understood its potential implications for your project. -->
 
@@ -112,11 +120,13 @@ Made with [drawio-desktop](https://github.com/jgraph/drawio-desktop/) (online ve
 
 <!-- see: https://www.diagrams.net/blog/embed-diagrams-github-markdown -->
 
-#### Software
+### Software
 
 <!-- Describe your software components -->
 
+#### Installation
 
+#### Running
 ## Acknowledgements
 
 <!-- Describe your software components -->
